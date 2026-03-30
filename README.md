@@ -5,6 +5,9 @@ This repository contains the aplication of the knowledge developed during the Py
 The system 
 allow for the registration, consultation, updating, and deletion of students, as well as the storage of information in a structured manner for later use.
 
+<img width="571" height="289" alt="pasted-image" src="https://github.com/user-attachments/assets/f8e0de54-4e48-40ea-9750-eff9b0b2ef06" />
+
+
 ## 📅 march/30/2026
 
 ## 🚀 How to Run the Programs
